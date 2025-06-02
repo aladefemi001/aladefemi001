@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Alade Femi
 
-<!--
-**aladefemi001/aladefemi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **I turn raw data into powerful insights.**
 
-Here are some ideas to get you started:
+I'm a passionate and detail-driven data analyst with hands-on experience in **data extraction, cleaning, modeling, analysis, and visualization**. I specialize in transforming complex datasets into meaningful dashboards and actionable insights that drive decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Technologies I Use
+- **Visualization**: Power BI, Excel, Tableau  
+- **Databases**: SQL Server, PostgreSQL, MySQL  
+- **Languages**: SQL, DAX, Python (beginner)  
+- **Skills**: Data Cleaning, Exploratory Data Analysis, Dashboard Design
+
+
+### 🤝 Let’s Collaborate!
+I’m open to **data analysis projects**, dashboard creation, or any opportunity to collaborate with professionals in the data space. Let’s solve meaningful problems with data!
+
+### 📬 Contact Me
+- 📧 **Email**: Aladefemi1998@gmail.com  
+- 🔗 **LinkedIn**: [Alade Olufemi](https://www.linkedin.com/in/alade-olufemi-a04795333) 
