@@ -2,7 +2,7 @@
 
 🎯 **I turn raw data into powerful insights.**
 
-I'm a passionate and detail-driven data analyst with hands-on experience in **data extraction, cleaning, modeling, analysis, and visualization**. I specialize in transforming complex datasets into meaningful dashboards and actionable insights that drive decision-making.
+I'm a passionate and detail-driven data analyst and an aspiring data scientist with hands-on experience in **data extraction, cleaning, modeling, analysis, and visualization**. I specialize in transforming complex datasets into meaningful dashboards and actionable insights that drive decision-making.
 
 ### 🧰 Tools & Technologies I Use
 - **Visualization**: Power BI, Excel, Tableau  
